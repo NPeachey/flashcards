@@ -6,7 +6,76 @@
 #javaScriptHidden {
   display: none;
 }
+#operatorsHidden {
+  display: none;
+}
+
+#variablesHidden {
+  display: none;
+}
+#vncHidden {
+  display: none;
+}
+
+#functionsHidden {
+  display: none;
+}
+#methodsHidden {
+  display: none;
+}
+
+#argumentsHidden {
+  display: none;
+}
+#parametersHidden {
+  display: none;
+}
+
+#returnHidden {
+  display: none;
+}
+#chainingHidden {
+  display: none;
+}
+
+#stringsHidden {
+  display: none;
+}
+#booleansHidden {
+  display: none;
+}
+
+#undefinedHidden {
+  display: none;
+}
+#nanHidden {
+  display: none;
+}
+
+#escapeHidden {
+  display: none;
+}
+#alertHidden {
+  display: none;
+}
+
+#commentsHidden {
+  display: none;
+}
+#jqueryHidden {
+  display: none;
+}
+
+#attributesHidden {
+  display: none;
+}
+/*.hidden {
+  display: none;
+}*/
 
 .col-md-6 {
   border: 1px solid red;
+}
+p:hover {
+  text-decoration: underline;
 }
