@@ -1,0 +1,12 @@
+.container {
+  border: 1px solid black;
+  text-align: center;
+}
+
+#javaScriptHidden {
+  display: none;
+}
+
+.col-md-6 {
+  border: 1px solid red;
+}
